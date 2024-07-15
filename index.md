@@ -6,6 +6,9 @@
 ###### Here is the Sixth and last Tag 
 
 
+![Static Badge](https://img.shields.io/badge/Testing_images-blue)
 
 
-Tested the github Markdown Language
+
+- Tested the github Markdown Language
+- Testing Images and Badges
